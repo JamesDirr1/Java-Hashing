@@ -1,0 +1,7 @@
+Enter File Location: 
+C:\Users\james\Downloads\samples\samples\ht1
+Hash 1 total collisions = 6
+Hash 2 total collisions = 3
+Hash 3 total collisions = 2
+
+Process finished with exit code 0

@@ -1,0 +1,8 @@
+C:\Users\james\.jdks\openjdk-19\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2022.2\lib\idea_rt.jar=59595:C:\Program Files\JetBrains\IntelliJ IDEA 2022.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\james\OneDrive\Desktop\Algorithms CSC-465\Prog3\out\production\Prog3" Prog3
+Enter File Location: 
+C:\Users\james\Downloads\samples\samples\ht3
+Hash 1 total collisions = 176
+Hash 2 total collisions = 204
+Hash 3 total collisions = 177
+
+Process finished with exit code 0

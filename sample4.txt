@@ -1,0 +1,8 @@
+C:\Users\james\Downloads\samples\samples\ht4
+Hash 1 total collisions = 101
+Hash 2 total collisions = 126
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index -36 out of bounds for length 151
+	at Prog3.hash3(Prog3.java:204)
+	at Prog3.main(Prog3.java:21)
+
+Process finished with exit code 1
